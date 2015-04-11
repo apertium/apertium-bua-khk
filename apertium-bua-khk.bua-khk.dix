@@ -294,10 +294,10 @@
 
 <!-- SECTION: Verbs -->
 
-<e>       <p><l>бол<s n="v"/><s n="iv"/></l>      <r>бол<s n="v"/><s n="iv"/></r></p></e> <!-- "1. быть" -->
-<e>       <p><l>үз<s n="v"/><s n="tv"/></l>      <r>үз<s n="v"/><s n="tv"/></r></p></e> <!-- "see" -->
+<e>       <p><l>боло<s n="v"/><s n="iv"/></l>      <r>бол<s n="v"/><s n="iv"/></r></p></e> <!-- "1. быть" -->
+<e>       <p><l>үзэ<s n="v"/><s n="tv"/></l>      <r>үз<s n="v"/><s n="tv"/></r></p></e> <!-- "see" -->
 <e>       <p><l>хар<s n="v"/><s n="tv"/></l>  <r>хар<s n="v"/><s n="tv"/></r></p></e> <!--"look at"  -->
-<e>       <p><l>яв<s n="v"/><s n="iv"/></l>  <r>яв<s n="v"/><s n="iv"/></r></p></e> <!-- "go"  -->
+<e>       <p><l>яба<s n="v"/><s n="iv"/></l>  <r>яв<s n="v"/><s n="iv"/></r></p></e> <!-- "go"  -->
 <e>       <p><l>оч<s n="v"/><s n="iv"/></l>  <r>оч<s n="v"/><s n="iv"/></r></p></e> <!--"go"  -->
 <e>       <p><l>ир<s n="v"/><s n="iv"/></l>  <r>ир<s n="v"/><s n="iv"/></r></p></e> <!--"go"  -->
 <e>       <p><l>сонго<s n="v"/><s n="tv"/></l>  <r>сонго<s n="v"/><s n="tv"/></r></p></e> <!--"choose"  -->
@@ -306,6 +306,8 @@
 <e>       <p><l>бүтээ<s n="v"/><s n="tv"/></l>           <r>бүтээ<s n="v"/><s n="tv"/></r></p></e> <!--"create"-->
 <e>       <p><l>мэд<s n="v"/><s n="tv"/></l>      <r>мэд<s n="v"/><s n="tv"/></r></p></e> <!-- "know" -->
 <e>       <p><l>уу<s n="v"/><s n="tv"/></l>      <r>уу<s n="v"/><s n="tv"/></r></p></e> <!-- "drink" -->
+<e>       <p><l>хүрэ<s n="v"/><s n="iv"/></l>      <r>хүр<s n="v"/><s n="iv"/></r></p></e> <!-- "reach" -->
+<e>       <p><l>һуу<s n="v"/><s n="iv"/></l>      <r>суу<s n="v"/><s n="tv"/></r></p></e> <!-- "sit" -->
 
 <!-- SECTION: Interjections -->
 
