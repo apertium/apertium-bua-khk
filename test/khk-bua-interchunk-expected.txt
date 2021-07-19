@@ -1,0 +1,16 @@
+[B0w1afFipFJO#0] ^default<default>{^ши<prn><pers><p2><sg><dat>$}$
+[/B0w1afFipFJO]
+[Jl_aF6NGEbFT#0] ^default<default>{^'<apos>$}$
+[/Jl_aF6NGEbFT]
+[NzmBhYRG1R__#0] ^default<default>{^муу<adj>$}$
+[/NzmBhYRG1R__]
+[ijMf3ecDLzOn#0] ^sent<SENT>{^"<sent>$}$
+[/ijMf3ecDLzOn]
+[io3oI9XtPhJ0#0] ^sent<SENT>{^?<sent>$}$
+[/io3oI9XtPhJ0]
+[j5AXBxSOd8Ip#0] ^default<default>{^шинэ<adj><subst><dat><refl>$}$
+[/j5AXBxSOd8Ip]
+[rOmHVz8Hwu4y#0] ^default<default>{^маргааш<adv>$}$
+[/rOmHVz8Hwu4y]
+[u4UkKn2MM3B-#0] ^default<default>{^Иерусалим<np><top><gen>$}$
+[/u4UkKn2MM3B-]

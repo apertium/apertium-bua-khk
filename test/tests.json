@@ -1,0 +1,10 @@
+{
+    "bua-khk": {
+        "input": "bua-khk-input.txt",
+        "mode": "bua-khk"
+    },
+    "khk-bua": {
+        "input": "khk-bua-input.txt",
+        "mode": "khk-bua"
+    }
+}

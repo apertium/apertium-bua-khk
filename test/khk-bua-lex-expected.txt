@@ -1,0 +1,16 @@
+[B0w1afFipFJO#0] ^чи<prn><pers><p2><sg><dat>/ши<prn><pers><p2><sg><dat>$
+[/B0w1afFipFJO]
+[Jl_aF6NGEbFT#0] ^'<apos>/'<apos>$
+[/Jl_aF6NGEbFT]
+[NzmBhYRG1R__#0] ^муу<adj>/муу<adj>$
+[/NzmBhYRG1R__]
+[ijMf3ecDLzOn#0] ^"<sent>/"<sent>$
+[/ijMf3ecDLzOn]
+[io3oI9XtPhJ0#0] ^?<sent>/?<sent>$
+[/io3oI9XtPhJ0]
+[j5AXBxSOd8Ip#0] ^шинэ<adj><subst><dat><refl>/шинэ<adj><subst><dat><refl>$
+[/j5AXBxSOd8Ip]
+[rOmHVz8Hwu4y#0] ^маргааш<adv>/маргааш<adv>$
+[/rOmHVz8Hwu4y]
+[u4UkKn2MM3B-#0] ^Иерусалим<np><top><gen>/Иерусалим<np><top><gen>$
+[/u4UkKn2MM3B-]
